@@ -1,0 +1,30 @@
+Base creation of a model based on information from webpage: https://pytorch.org/tutorials/beginner/basics/quickstart_tutorial.html
+
+TTD:
+
+function for creating copying a tensor
+function for filling a tensor
+function for manipulating data in a tensorarray
+
+function for 
+
+Train models that tests different shape inputs
+Train models that tests different shape sizes
+Shape extraction experimentation!
+The auto-encoder
+helperfunction: save and load stats
+helperfunction: make various visualisations
+helperfunction: image processing
+main that can load models, load stats and create graphs and visualisations
+
+
+Project currently consists off:
+
+Train test model - Done
+Test a traditional CNN model - Done
+Simple shape NN - started
+helperFunctions - started
+main - started
+Converted from prototype to project
+
+

@@ -1,0 +1,35 @@
+Base creation of a model based on information from webpage: https://pytorch.org/tutorials/beginner/basics/quickstart_tutorial.html
+
+TTD: (Thinigs To Do)
+
+More experimentation on adapting Transformer with the single for data.
+GNN for larger shape inputs
+Better shape extraction
+
+
+
+
+Project currently consists off:
+
+Project ready for Delivery - Done
+Train test model - Done
+Test a traditional CNN model - Done
+Simple shape NN - Done
+MyModels collects all models - Done
+Model manager class takes care of training - Done
+Visualizer class takes care of visualization - Done
+helperFunctions - Done
+Train models that tests different shape inputs - Done
+Train models that tests variable shape inputs - Done 
+Shape extraction experimentation! - Done
+The auto-encoder - Done
+helperfunction: save and load stats - Done
+helperfunction: make various visualisations - Done
+helperfunction: image processing - Done
+main that can load models, load stats and create graphs and visualisations - Done
+main visualizer and main training - Done
+Converted from prototype to project -Done
+Converted from nproject to Delivery - Done
+
+
+
